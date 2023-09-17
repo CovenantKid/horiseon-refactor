@@ -11,7 +11,9 @@
 
 
 #          index.html changes
-# replaced element /p's with articles
+# replaced element /p's with articles for main text
 # added the missing id for search engine optimization
-# added title to page for clarification for view. 
+# added title to page for clarification. 
 # added missing alt tags to images
+
+
