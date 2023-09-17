@@ -176,16 +176,19 @@ p {
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
+    text-wrap: 20px;
 }
 
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
+    text-wrap: 20px;
 }
 
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
+    text-wrap: 20px;
 }
 
 .footer {
