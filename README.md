@@ -1,7 +1,16 @@
+This repo is an example of a landing page, for horiseon.
+The content of the page is based on a starter code given below!
+
+
+
+
+
+
+
 
 # DEPLOYMENT
-# This repo is deployed at the following link:
-# https://covenantkid.github.io/module1-challenge/
+This repo is deployed at the following link: 
+https://covenantkid.github.io/horiseon-refactor/
 
 
 
@@ -10,10 +19,6 @@
 # https://github.com/coding-boot-camp/urban-octo-telegram
 
 
-#          index.html changes
-# replaced element /p's with articles for main text
-# added the missing id for search engine optimization
-# added title to page for clarification. 
-# added missing alt tags to images
+
 
 
