@@ -1,29 +1,30 @@
+/* global changes */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* background color the dead space between the page. */
 body {
     background-color: #d9dcd6;
 }
-
+/* style of the "horiseon" logo on the top left of the page. */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* size of the "horiseon" logo. */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* color of "seo" portion of the logo. */
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* font, font size and padding/margin of hyperlinks at top right of page */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -45,11 +46,11 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* font size for the main blerbs of the page */
 p {
     font-size: 16px;
 }
-
+/* determines the background image of the site, size and source */
 .hero {
     height: 800px;
     width: 100%;
@@ -69,7 +70,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* used to set up the right-side advert */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -80,23 +81,23 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* from line 83 to line 117, classes in this range where grouped that serve the same purpose. */
 .benefit-lead,.benefit-brand,.benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* text of the right side bar. */
 .benefit-lead h3,.benefit-cost h3,.benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* images of the right side bar info max sizes and margins. */
 .benefit-lead img, .benefit-cost img, .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* main articles text, size,color and font. */
 .search-engine-optimization,.social-media-marketing,.online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -105,24 +106,24 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* controls the max height of the images attached to main articles. */
 .online-reputation-management img,.social-media-marketing img,.search-engine-optimization img {
     max-height: 200px;
 }
-
+/* controls the header text size on main page details.*/
 .search-engine-optimization h2,.social-media-marketing h2,.online-reputation-management h2  {
     margin-bottom: 20px;
     font-size: 36px;
     text-wrap: 20px;
 }
-
+/* footer giving thanks from the company */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* size of the footer message */
 .footer h2 {
     font-size: 20px;
 }
